@@ -1,4 +1,4 @@
-# Olá pessoal, me chamo Daniella, sejam bem vindos! :abanando::tom-de-pele-2:
+# Olá pessoal, me chamo Daniella, sejam bem-vindos! :wave::cherry_blossom:
 ### Contatos:
 <a href = "mailto:contato@danielaz_9@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/daniella-zuccolotto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -6,7 +6,7 @@
 Estou atualmente em transição de carreira da área de construção civil para a área de Programação. Sou apaixonada por tecnologia desde criança e atualmente estou estudando Desenvolvimento Web FullStack na [Trybe](https://www.betrybe.com). Estou em constante aprendizado e em constante crescimento pessoal e profissional, com muito esforço, dedicação e muita vontade de aprender.
 <br />
 <!-- Source: https://github.com/lucas-caribe/lucas-caribe/edit/main/README.md /> -->
-### :computador: Tecnologias e Ferramentas
+### :computer::woman_technologist: Tecnologias e Ferramentas
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?logo=jest&logoColor=white)
@@ -24,7 +24,7 @@ Estou atualmente em transição de carreira da área de construção civil para 
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?logo=Sequelize&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white)
 <br />
-### :gráfico_de_barras: Github Stats
+### :bar_chart: Github Stats
 <div>
 <a href="https://github.com/DaniellaZuccolotto">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniellaZuccolotto&layout=compact&langs_count=7&theme=dracula"/>
