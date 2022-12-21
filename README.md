@@ -42,7 +42,7 @@ Sou uma pessoa que ama viajar, conhecer novos lugares e fazer atividades física
 | Register Users 📝🗒 |
 | :---: |
 | JavaScript, React, ContextAPI, Node.js |
-| _[Repo](https://github.com/DaniellaZuccolotto/register-users)_, _[Repo](https://user-images.githubusercontent.com/98171403/208977955-de8a431a-d216-4426-a425-dfe05392c779.mp4)_ |
+| _[Repo](https://github.com/DaniellaZuccolotto/register-users)_, _[Video](https://user-images.githubusercontent.com/98171403/208977955-de8a431a-d216-4426-a425-dfe05392c779.mp4)_ |
 | <img src="https://user-images.githubusercontent.com/98171403/208978135-97be3b31-2a4c-4703-81b8-413c5b1f45b5.png" width="200" height="200" > |
 
 ### :bar_chart: Github Stats
