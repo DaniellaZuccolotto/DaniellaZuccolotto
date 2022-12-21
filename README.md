@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/daniella-zuccolotto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <br />
 email: danielaz_9@hotmail.com
-### Sobre mim
+### :woman::woman_technologist: Sobre mim
 Estou atualmente em transição de carreira da área de construção civil para a área de Programação. Sou apaixonada por tecnologia desde criança e atualmente estou estudando Desenvolvimento Web FullStack na [Trybe](https://www.betrybe.com). Estou em constante aprendizado e em constante crescimento pessoal e profissional, com muito esforço, dedicação e muita vontade de aprender.
 Sou uma pessoa que ama viajar, conhecer novos lugares e fazer atividades físicas.
 <br />
