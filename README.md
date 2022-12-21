@@ -1,6 +1,6 @@
 <h1 align="center">Olá pessoal, me chamo Daniella, sejam bem-vindos! :wave::cherry_blossom:</h1>
 
-<h3 align="center">Contatos:</h3>
+<h3 align="center">:woman_technologist: Contatos:</h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/daniella-zuccolotto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -12,27 +12,29 @@
 Estou atualmente em transição de carreira da área de construção civil para a área de Programação. Sou apaixonada por tecnologia desde criança e atualmente estou estudando Desenvolvimento Web FullStack na <a href="https://www.betrybe.com">Trybe</a>. Estou em constante aprendizado e em constante crescimento pessoal e profissional, com muito esforço, dedicação e muita vontade de aprender.
 Sou uma pessoa que ama viajar, conhecer novos lugares e fazer atividades físicas.
 </p>
-<br />
 
 <!-- Source: https://github.com/lucas-caribe/lucas-caribe/edit/main/README.md /> -->
-### :computer::woman_technologist: Tecnologias e Ferramentas
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
-![Jest](https://img.shields.io/badge/-jest-%23C21325?logo=jest&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?logo=redux&logoColor=white)
-![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?logo=testing-library&logoColor=white)
+<h3 align="center">:computer::woman_technologist: Tecnologias e Ferramentas</h3>
+<div align="center">
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E">
+<img src="https://img.shields.io/badge/-jest-%23C21325?logo=jest&logoColor=white">
+<img src="https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB">
+<img src="https://img.shields.io/badge/redux-%23593d88.svg?logo=redux&logoColor=white">
+<img src="https://img.shields.io/badge/-TestingLibrary-%23E33332?logo=testing-library&logoColor=white">
 <br/>
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)
-![Insomnia](https://img.shields.io/badge/Insomnia-black?logo=insomnia&logoColor=5849BE)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?logo=Sequelize&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white)
-<br />
+<img src="https://img.shields.io/badge/express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB">
+<img src="https://img.shields.io/badge/Insomnia-black?logo=insomnia&logoColor=5849BE">
+<img src="https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white">
+<img src="https://img.shields.io/badge/Sequelize-52B0E7?logo=Sequelize&logoColor=white">
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white">
+</div>
+
+<h3 align="center">:woman_technologist: Projetos</h3>
 
 | **Recipes APP 🍸🥙** | **Trivia 👾🎮** | **Wallet 💰** |
 | :---: | :---: | :---: |
@@ -48,9 +50,8 @@ Sou uma pessoa que ama viajar, conhecer novos lugares e fazer atividades física
 | _[Repo](https://github.com/DaniellaZuccolotto/register-users)_, _[Video](https://user-images.githubusercontent.com/98171403/208977955-de8a431a-d216-4426-a425-dfe05392c779.mp4)_ | _[Repo](https://github.com/DaniellaZuccolotto/Trybe-Futebol-Clube)_ | _[Repo](https://github.com/DaniellaZuccolotto/car-shop)_ |
 | <img src="https://user-images.githubusercontent.com/98171403/208978135-97be3b31-2a4c-4703-81b8-413c5b1f45b5.png" width="200" height="200" > | <img src="https://user-images.githubusercontent.com/98171403/208980952-1450e800-f5de-4a67-a54c-189829de5a59.png" width="250" height="200" > | <img src="https://user-images.githubusercontent.com/98171403/208983515-a8262c98-70e6-4850-8c1a-87171486f87e.png" width="250" height="200" > |
 
-
-### :bar_chart: Github Stats
-<div>
+<h3 align="center">:bar_chart::woman_technologist: Github Stats</h3>
+<div align="center">
 <a href="https://github.com/DaniellaZuccolotto">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniellaZuccolotto&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaniellaZuccolotto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
