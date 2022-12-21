@@ -26,6 +26,19 @@ Sou uma pessoa que ama viajar, conhecer novos lugares e fazer atividades física
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?logo=Sequelize&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white)
 <br />
+
+| Recipes APP 🍸🥙 | Trivia 👾🎮 | Wallet 💰 |
+| :---: | :---: | :---: |
+| React, Context API, Hooks e CSS3  | React, Redux, HTML e CSS3  | React, Redux, BrowserRouter e CSS3  |
+| _[Site](https://recipes-app-ruby-two.vercel.app/)_, _[Repo](https://github.com/DaniellaZuccolotto/recipes-app)_ | _[Site](https://trivia-six-blond.vercel.app/)_, _[Repo](https://github.com/DaniellaZuccolotto/trivia)_  | _[Site](https://wallet-kappa-pearl.vercel.app/)_, _[Repo](https://github.com/DaniellaZuccolotto/wallet)_  |
+| <img src="https://user-images.githubusercontent.com/98171403/208926911-a8084b12-8264-4325-a70d-044b252eea63.png" width="150" height="200"> | <img src="https://user-images.githubusercontent.com/98171403/208929973-c10222d0-c8c0-43f8-8a3d-e9f8e8088770.png" width="200" height="200"> | <img src="https://user-images.githubusercontent.com/98171403/208930427-35a87241-70bc-47de-8f48-59d5216e8e87.png" width="200" height="200"> |
+
+| Star Wars Planet Search 🪐 | Projeto 2 | Projeto 2 |
+| :---: | :---: | :---: |
+| React, Context API, Hooks e CSS3  | Content Cell  | Content Cell  |
+| _[Site](https://starwars-blush-gamma.vercel.app/)_, _[Repo](https://github.com/DaniellaZuccolotto/starwars)_  | Content Cell  | Content Cell  |
+| <img src="https://user-images.githubusercontent.com/98171403/208935423-86ad9ec8-ead0-4758-836f-7af2797ba067.png" width="200" height="200" > | Content Cell  | Content Cell |
+
 ### :bar_chart: Github Stats
 <div>
 <a href="https://github.com/DaniellaZuccolotto">
