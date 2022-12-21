@@ -1,15 +1,19 @@
 # Olá pessoal, me chamo Daniella, sejam bem-vindos! :wave::cherry_blossom:
-### Contatos:
+
+<h3 align="center">Contatos:</h3>
+
 <p align="center">
 <a href="https://www.linkedin.com/in/daniella-zuccolotto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:contato@danielaz_9@hotmail.com"><img src="https://img.shields.io/badge/Hotmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </p>
+
+<h3 align="center">:woman::woman_technologist: Sobre mim</h3>
+<p align="center">
+Estou atualmente em transição de carreira da área de construção civil para a área de Programação. Sou apaixonada por tecnologia desde criança e atualmente estou estudando Desenvolvimento Web FullStack na <a href="https://www.betrybe.com">Trybe</a>. Estou em constante aprendizado e em constante crescimento pessoal e profissional, com muito esforço, dedicação e muita vontade de aprender.
+Sou uma pessoa que ama viajar, conhecer novos lugares e fazer atividades físicas.
+</p>
 <br />
 
-### :woman::woman_technologist: Sobre mim
-Estou atualmente em transição de carreira da área de construção civil para a área de Programação. Sou apaixonada por tecnologia desde criança e atualmente estou estudando Desenvolvimento Web FullStack na [Trybe](https://www.betrybe.com). Estou em constante aprendizado e em constante crescimento pessoal e profissional, com muito esforço, dedicação e muita vontade de aprender.
-Sou uma pessoa que ama viajar, conhecer novos lugares e fazer atividades físicas.
-<br />
 <!-- Source: https://github.com/lucas-caribe/lucas-caribe/edit/main/README.md /> -->
 ### :computer::woman_technologist: Tecnologias e Ferramentas
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white)
