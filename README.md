@@ -1,5 +1,5 @@
-<h1 align="center">Olá pessoal, me chamo Daniella, sejam bem-vindos! :wave::cherry_blossom:</h1>
-<h1 align="center">Hey guys, my name is Daniella, welcome! :wave::cherry_blossom:</h1>
+<h1 align="center"> 🇧🇷 Olá pessoal, me chamo Daniella, sejam bem-vindos! :wave::cherry_blossom:</h1>
+<h1 align="center"> 🇺🇸 Hey guys, my name is Daniella, welcome! :wave::cherry_blossom:</h1>
 
 <h3 align="center">:woman_technologist: Contatos/Contacts:</h3>
 
