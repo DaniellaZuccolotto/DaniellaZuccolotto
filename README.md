@@ -6,6 +6,8 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/daniella-zuccolotto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:danielaz_9@hotmail.com"><img src="https://img.shields.io/badge/Hotmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<br>
+email: danielaz_9@hotmail.com
 </p>
 
 <h3 align="center">:woman::woman_technologist: About me / Sobre mim </h3>
