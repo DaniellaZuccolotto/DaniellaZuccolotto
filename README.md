@@ -1,5 +1,5 @@
-<h1 align="center"> 🇧🇷 Olá pessoal, me chamo Daniella, sejam bem-vindos! :wave::cherry_blossom:</h1>
 <h1 align="center"> 🇺🇸 Hey guys, my name is Daniella, welcome! :wave::cherry_blossom:</h1>
+<h1 align="center"> 🇧🇷 Olá pessoal, me chamo Daniella, sejam bem-vindos! :wave::cherry_blossom:</h1>
 
 <h3 align="center">:woman_technologist: Contatos/Contacts:</h3>
 
@@ -10,12 +10,15 @@
 
 <h3 align="center">:woman::woman_technologist: Sobre mim/About me</h3>
 <p align="center">
-:brazil: Estou atualmente em transição de carreira da área de construção civil para a área de Programação. Sou apaixonada por tecnologia desde criança e atualmente estou estudando Desenvolvimento Web FullStack na <a href="https://www.betrybe.com">Trybe</a>. Estou em constante aprendizado e em constante crescimento pessoal e profissional, com muito esforço, dedicação e muita vontade de aprender.
+🇺🇸 Passionate about technology since she was a child. I am in constant learning and in constant personal and professional growth, with a lot of effort, dedication and a lot of desire to learn.
+I am a person who loves to travel, know new places and do physical activities.
+
+🇧🇷 Apaixonada por tecnologia desde criança. Estou em constante aprendizado e em constante crescimento pessoal e profissional, com muito esforço, dedicação e muita vontade de aprender.
 Sou uma pessoa que ama viajar, conhecer novos lugares e fazer atividades físicas.
 </p>
 
 <!-- Source: https://github.com/lucas-caribe/lucas-caribe/edit/main/README.md /> -->
-<h3 align="center">:computer::woman_technologist: Tecnologias e Ferramentas</h3>
+<h3 align="center">:computer::woman_technologist: Tecnologias e Ferramentas/ Technologies and Tools</h3>
 <div align="center">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E">
@@ -35,7 +38,7 @@ Sou uma pessoa que ama viajar, conhecer novos lugares e fazer atividades física
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white">
 </div>
 
-<h3 align="center">:woman_technologist: Projetos</h3>
+<h3 align="center">:woman_technologist: Projetos/ Projects</h3>
 
 | **Recipes APP 🍸🥙** | **Trivia 👾🎮** | **Wallet 💰** |
 | :---: | :---: | :---: |
