@@ -1,14 +1,14 @@
 <h1 align="center"> 🇺🇸 Hey guys, my name is Daniella, welcome! :wave::cherry_blossom:</h1>
 <h1 align="center"> 🇧🇷 Olá pessoal, me chamo Daniella, sejam bem-vindos! :wave::cherry_blossom:</h1>
 
-<h3 align="center">:woman_technologist: Contatos/Contacts:</h3>
+<h3 align="center">:woman_technologist: Contacts / Contatos:</h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/daniella-zuccolotto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:danielaz_9@hotmail.com"><img src="https://img.shields.io/badge/Hotmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </p>
 
-<h3 align="center">:woman::woman_technologist: Sobre mim/About me</h3>
+<h3 align="center">:woman::woman_technologist: About me / Sobre mim </h3>
 <p align="center">
 🇺🇸 Passionate about technology since she was a child. I am in constant learning and in constant personal and professional growth, with a lot of effort, dedication and a lot of desire to learn.
 I am a person who loves to travel, know new places and do physical activities.
@@ -18,7 +18,7 @@ Sou uma pessoa que ama viajar, conhecer novos lugares e fazer atividades física
 </p>
 
 <!-- Source: https://github.com/lucas-caribe/lucas-caribe/edit/main/README.md /> -->
-<h3 align="center">:computer::woman_technologist: Tecnologias e Ferramentas/ Technologies and Tools</h3>
+<h3 align="center">:computer::woman_technologist: Technologies and Tools / Tecnologias e Ferramentas</h3>
 <div align="center">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E">
@@ -38,7 +38,7 @@ Sou uma pessoa que ama viajar, conhecer novos lugares e fazer atividades física
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white">
 </div>
 
-<h3 align="center">:woman_technologist: Projetos/ Projects</h3>
+<h3 align="center">:woman_technologist: Projects / Projetos </h3>
 
 | **Recipes APP 🍸🥙** | **Trivia 👾🎮** | **Wallet 💰** |
 | :---: | :---: | :---: |
