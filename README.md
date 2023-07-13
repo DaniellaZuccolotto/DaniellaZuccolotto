@@ -1,15 +1,16 @@
 <h1 align="center">Olá pessoal, me chamo Daniella, sejam bem-vindos! :wave::cherry_blossom:</h1>
+<h1 align="center">Hey guys, my name is Daniella, welcome! :wave::cherry_blossom:</h1>
 
-<h3 align="center">:woman_technologist: Contatos:</h3>
+<h3 align="center">:woman_technologist: Contatos/Contacts:</h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/daniella-zuccolotto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:danielaz_9@hotmail.com"><img src="https://img.shields.io/badge/Hotmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </p>
 
-<h3 align="center">:woman::woman_technologist: Sobre mim</h3>
+<h3 align="center">:woman::woman_technologist: Sobre mim/About me</h3>
 <p align="center">
-Estou atualmente em transição de carreira da área de construção civil para a área de Programação. Sou apaixonada por tecnologia desde criança e atualmente estou estudando Desenvolvimento Web FullStack na <a href="https://www.betrybe.com">Trybe</a>. Estou em constante aprendizado e em constante crescimento pessoal e profissional, com muito esforço, dedicação e muita vontade de aprender.
+:brazil: Estou atualmente em transição de carreira da área de construção civil para a área de Programação. Sou apaixonada por tecnologia desde criança e atualmente estou estudando Desenvolvimento Web FullStack na <a href="https://www.betrybe.com">Trybe</a>. Estou em constante aprendizado e em constante crescimento pessoal e profissional, com muito esforço, dedicação e muita vontade de aprender.
 Sou uma pessoa que ama viajar, conhecer novos lugares e fazer atividades físicas.
 </p>
 
